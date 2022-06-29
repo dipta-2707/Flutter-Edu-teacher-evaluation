@@ -4,6 +4,18 @@ A Flutter app for Teacher Evaluation.
 - Students can login and signup
 - Submit teacher evaluation
 - Can see the teacher's ranking base on the evaluation
+
+## UI
+login </br>
+<img src="uiux/eduLogin.png">
+</br>
+Signup </br>
+<img src="uiux/eduSignup.png">
+</br>
+Home </br>
+<img src="uiux/eduHome.png">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
